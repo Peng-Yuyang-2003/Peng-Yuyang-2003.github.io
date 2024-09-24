@@ -1,13 +1,13 @@
 # Site settings
 title: PYY Blog
-SEOTitle: 宇阳天下的博客 | PYY Blog
+SEOTitle: 123 | PYY Blog
 header-img: img/post-bg-desk.jpg
 email: 2101066425@qq.com
 description: "Every failure is leading towards success."
-keyword: "宇阳天下, PYY Blog, 宇阳天下的博客, PYY"
-url: "http://Peng-Yuyang-2003.github.io"          # your host, for absolute URL
+keyword: "123, PYY Blog, 123, PYY"
+url: "http://peng-yuyang-2003.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/Peng-Yuyang-2003/Peng-Yuyang-2003.github.io.git" # you code repository
+github_repo: "https://github.com/peng-yuyang-2003/peng-yuyang-2003.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
